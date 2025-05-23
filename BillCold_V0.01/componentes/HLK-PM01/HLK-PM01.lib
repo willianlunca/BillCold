@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# HLK-PM01
+#
+DEF HLK-PM01 PS 0 40 Y Y 1 L N
+F0 "PS" 950 300 50 H V L BNN
+F1 "HLK-PM01" 950 200 50 H V L BNN
+F2 "HLKPM01" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Hi-link" 0 0 50 H I L BNN "MF"
+F5 "None" 0 0 50 H I L BNN "Price"
+F6 "Unavailable" 0 0 50 H I L BNN "Availability"
+F7 "hlk-pm01" 0 0 50 H I L BNN "MP"
+F8 "Package" 0 0 50 H I L BNN "Package"
+F9 "The 3W ultra-small series module power supply is a small-volume, high-efficiency AC DC power module supply designed by Shenzhen Hi-Link Electronics Co.,Ltd. It has the advantages of global input voltage range, low temperature rise, low power consumption,high efficiency, high reliability and high safety isolation. It has been widely used in smart home, automation control, communications equipment, instrumentation and other industries." 0 0 50 H I L BNN "Description"
+DRAW
+P 2 0 0 10 200 100 900 100 N
+P 2 0 0 10 900 -200 900 100 N
+P 2 0 0 10 900 -200 200 -200 N
+P 2 0 0 10 200 100 200 -200 N
+X AC_1 1 0 0 200 R 40 40 0 0 B 
+X AC_2 2 0 -100 200 R 40 40 0 0 B 
+X -V0 3 1100 0 200 L 40 40 0 0 B 
+X +V0 4 1100 -100 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
