@@ -1,4 +1,11 @@
-24416952839861265
+24420490035277276
+ANTENA_2.4GZ
+Antena_2.4GB
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68260,6 +68267,13 @@ NetTie
 NetTie-4_THT_Pad1.0mm
 Net tie, 4 pin, 1.0mm round THT pads
 net tie
+0
+4
+4
+OSCILADOR_3225
+TSX-3225
+<b><b>MHz range crystal unit</b><p>Digi-Key: <a href="http://www.digikey.com/product-detail/en/TSX-3225%2016.0000MF18X-AC3/SER3636CT-ND/1825448">SER3636CT-ND</a></p>
+
 0
 4
 4

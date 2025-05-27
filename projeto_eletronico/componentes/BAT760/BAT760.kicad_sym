@@ -235,8 +235,22 @@
 				)
 			)
 		)
+		(symbol "BAT760_0_1"
+			(polyline
+				(pts
+					(xy 3.81 0) (xy -3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(symbol "BAT760_1_0"
-			(pin output line
+			(pin power_out line
 				(at 3.81 0 180)
 				(length 2.54)
 				(name "~"
@@ -254,7 +268,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -3.81 0 0)
 				(length 2.54)
 				(name "~"
