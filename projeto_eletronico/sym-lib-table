@@ -7,4 +7,6 @@
   (lib (name "OSCILADOR_3225")(type "KiCad")(uri "${KIPRJMOD}/componentes/Oscilador-3225/TSX-3225.kicad_sym")(options "")(descr "OSCILADOR_4_PIN"))
   (lib (name "ANTENA_2.4GZ")(type "KiCad")(uri "${KIPRJMOD}/componentes/Antena/Antena_2.4Gb.kicad_sym")(options "")(descr "ANTENA_WIFI_ESP32"))
   (lib (name "MEMORIA_FLESH")(type "KiCad")(uri "${KIPRJMOD}/componentes/W25Q128JVSIQ/W25Q128JVSIQ.kicad_sym")(options "")(descr "MEM_FLASH_ESP32_16MB"))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/componentes/CR2450_SUPORT/New_Library.kicad_sym")(options "")(descr "SUPORTE_BATERIA"))
+  (lib (name "MF11")(type "KiCad")(uri "${KIPRJMOD}/componentes/MF11/MF52A1103F3380.kicad_sym")(options "")(descr "THERMISTOR"))
 )
