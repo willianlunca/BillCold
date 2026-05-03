@@ -1,6 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "ESP32_S3")(type "KiCad")(uri "${KIPRJMOD}/componentes/ESP32-S3/ESP32-S3.kicad_sym")(options "")(descr "ESP32_S3 Sem flash")(disabled)(hidden))
   (lib (name "USB")(type "KiCad")(uri "${KIPRJMOD}/componentes/USBLC6-2P6/USBLC6-2P6.kicad_sym")(options "")(descr "USB CONECTORES"))
   (lib (name "BAT_760")(type "KiCad")(uri "${KIPRJMOD}/componentes/BAT760/BAT760.kicad_sym")(options "")(descr "BAT_760"))
   (lib (name "ESP_32_OFICIAL")(type "KiCad")(uri "${KIPRJMOD}/componentes/esp32_oficial/symbols/Espressif.kicad_sym")(options "")(descr "ESP32_OFICIAL"))
@@ -9,4 +8,5 @@
   (lib (name "MEMORIA_FLESH")(type "KiCad")(uri "${KIPRJMOD}/componentes/W25Q128JVSIQ/W25Q128JVSIQ.kicad_sym")(options "")(descr "MEM_FLASH_ESP32_16MB"))
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/componentes/CR2450_SUPORT/New_Library.kicad_sym")(options "")(descr "SUPORTE_BATERIA"))
   (lib (name "MF11")(type "KiCad")(uri "${KIPRJMOD}/componentes/MF11/MF52A1103F3380.kicad_sym")(options "")(descr "THERMISTOR"))
+  (lib (name "SK6812-E")(type "KiCad")(uri "${KIPRJMOD}/componentes/SK6812-E/SK6812-E.kicad_sym")(options "")(descr "LED ENDEREÇAVEL"))
 )

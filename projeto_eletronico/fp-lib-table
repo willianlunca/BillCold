@@ -7,4 +7,5 @@
   (lib (name "ANTENA_2.4GZ")(type "KiCad")(uri "${KIPRJMOD}/componentes/Antena")(options "")(descr "ANTENA_ESP32"))
   (lib (name "MEMORIA_FLESH")(type "KiCad")(uri "${KIPRJMOD}/componentes/W25Q128JVSIQ")(options "")(descr "MEMORIA_ESP32_16MB"))
   (lib (name "MF11")(type "KiCad")(uri "${KIPRJMOD}/componentes/MF11")(options "")(descr "MF11"))
+  (lib (name "SK6812-E")(type "KiCad")(uri "${KIPRJMOD}/componentes/SK6812-E")(options "")(descr "LED ENDEREÇAVEL"))
 )
